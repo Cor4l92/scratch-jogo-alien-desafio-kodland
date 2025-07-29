@@ -1,31 +1,25 @@
 # 🚀 Jogo Scratch - Coletar Estrelas (Desafio Kodland)
 
-Este projeto é um **jogo desenvolvido no Scratch** como parte do desafio prático para **tutor da Kodland**.  
-O objetivo do jogo é **controlar uma nave, desviar de inimigos e coletar estrelas** para ganhar pontos.
-
-✅ Inclui **recursos educacionais**, lógica para clones, variáveis, listas e blocos personalizados.
-
----
-
-## ✅ Funcionalidades do Jogo
-- ✔ Controle da nave com teclas de **setas esquerda/direita**
-- ✔ Disparo de **tiros** com tecla **espaço**
-- ✔ **Inimigos gerados com clones** (Alienígenas)
-- ✔ Sistema de **pontuação** e **vidas**
-- ✔ Condições de **Vitória** e **Game Over**
-- ✔ **Bloco personalizado com parâmetro numérico**
-- ✔ Tela de **instruções**
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Scratch](https://img.shields.io/badge/Scratch-3.0-blue?logo=scratch)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
 
-## 🎮 Como Jogar
-1. **Mover nave** → Use as setas **←** e **→**
-2. **Atirar** → Pressione **ESPAÇO**
-3. **Objetivo** → Derrube os aliens e acumule pontos sem perder todas as vidas.
+## 🎮 Sobre o Projeto
+Este jogo foi desenvolvido em **Scratch 3.0** como parte do **desafio prático para tutor da Kodland**.  
+O objetivo é ensinar **lógica de programação** de forma lúdica para crianças e adolescentes.
+
+✅ Inclui:
+- Variáveis e listas
+- Clones
+- Bloco personalizado com parâmetro
+- Sistema de pontuação e vidas
+- Condições de vitória e derrota
 
 ---
 
-## 🖼 Prévia do Jogo
+## 🖥 Prévia do Jogo
 ### ✅ Vitória
 ![Vitória](wingif.gif)
 
@@ -34,19 +28,32 @@ O objetivo do jogo é **controlar uma nave, desviar de inimigos e coletar estrel
 
 ---
 
-## 🧩 Estrutura dos Blocos
-### 🔹 Blocos da Nave:
+## ✅ Funcionalidades
+✔ Controle da nave com teclas de **setas esquerda/direita**  
+✔ Disparo com tecla **espaço**  
+✔ Geração de inimigos com **clones**  
+✔ **Pontuação + vidas**  
+✔ Tela de **instruções**  
+
+---
+
+## ▶ Como Abrir
+1. Acesse [Scratch Online](https://scratch.mit.edu/projects/editor/)
+2. Clique em **Carregar do computador**
+3. Selecione o arquivo:  
+   **`coletar_estrelas_Kodland.sb3`**
+
+---
+
+## 🧩 Blocos de Código
 ![Nave](naveblocos.jpg)
-
-### 🔹 Blocos do Alien:
 ![Alien](alien_blocos.jpg)
-
-### 🔹 Blocos da Estrela:
 ![Estrela](estrelablocos.jpg)
 
 ---
 
-## 🗂 Estrutura do Projeto
+## 📂 Estrutura do Repositório
+
 
 scratch-jogo-alien-desafio-kodland/
 │
