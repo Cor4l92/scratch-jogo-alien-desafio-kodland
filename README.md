@@ -46,8 +46,14 @@ O objetivo é ensinar **lógica de programação** de forma lúdica para crianç
 ---
 
 ## 🧩 Blocos de Código
+
+Nave
 ![Nave](naveblocos.jpg)
+
+alien
 ![Alien](alien_blocos.jpg)
+
+estrela
 ![Estrela](estrelablocos.jpg)
 
 ---
